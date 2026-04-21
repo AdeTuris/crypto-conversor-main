@@ -1,0 +1,24 @@
+<svg width="640" height="240" viewBox="0 0 640 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Crypto Conversor</title>
+  <desc id="desc">Logo com ícone de moeda e tipografia moderna em tons sóbrios.</desc>
+  <defs>
+    <linearGradient id="bg" x1="64" y1="24" x2="576" y2="216" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="176" y1="64" x2="464" y2="176" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#B45309"/>
+    </linearGradient>
+  </defs>
+  <rect x="20" y="20" width="600" height="200" rx="36" fill="url(#bg)"/>
+  <circle cx="144" cy="120" r="54" fill="url(#accent)"/>
+  <circle cx="144" cy="120" r="34" fill="#0F172A" opacity="0.92"/>
+  <path d="M128 112C128 102.059 136.059 94 146 94H162C166.418 94 170 97.5817 170 102C170 106.418 166.418 110 162 110H146C145.448 110 145 110.448 145 111V129C145 129.552 145.448 130 146 130H160C169.941 130 178 138.059 178 148C178 157.941 169.941 166 160 166H144C139.582 166 136 162.418 136 158C136 153.582 139.582 150 144 150H160C160.552 150 161 149.552 161 149V111C161 110.448 160.552 110 160 110H146C141.582 110 138 106.418 138 102C138 97.5817 141.582 94 146 94" fill="#F8FAFC"/>
+  <path d="M200 120C200 95.1472 219.147 76 244 76C263.147 76 279.417 87.3524 286.5 103.5L272.1 109.2C267.208 97.938 256.33 90 244 90C227.431 90 214 103.431 214 120C214 136.569 227.431 150 244 150C256.33 150 267.208 142.062 272.1 130.8L286.5 136.5C279.417 152.647 263.147 164 244 164C219.147 164 200 144.853 200 120Z" fill="#E2E8F0"/>
+  <rect x="302" y="76" width="10" height="88" rx="5" fill="#F59E0B"/>
+  <path d="M328 76H354C373.882 76 390 92.1177 390 112C390 131.882 373.882 148 354 148H338V164H328V76ZM338 136H354C368.359 136 380 124.359 380 110C380 95.6406 368.359 84 354 84H338V136Z" fill="#F8FAFC"/>
+  <path d="M408 76H446C453.732 76 460 82.268 460 90V150C460 157.732 453.732 164 446 164H408C400.268 164 394 157.732 394 150V90C394 82.268 400.268 76 408 76ZM410 88C407.791 88 406 89.7909 406 92V148C406 150.209 407.791 152 410 152H444C446.209 152 448 150.209 448 148V92C448 89.7909 446.209 88 444 88H410Z" fill="#E2E8F0"/>
+  <path d="M475 76H485L521 136V76H533V164H523L487 104V164H475V76Z" fill="#F8FAFC"/>
+  <text x="200" y="195" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="4">CRYPTO CONVERSOR</text>
+</svg>
