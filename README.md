@@ -67,6 +67,27 @@ Nosso foco será melhorar a experiencia do usuário e trazer um pouco de luz a e
 * Acesse o projeto pelo computador ou pelo celular
 * Browser compatível: Chrome, Firefox e Edge
 
+## Executar localmente (sem depender do VS Code)
+
+Ao abrir os arquivos HTML com duplo clique (`file://`), algumas funcionalidades podem falhar por restricoes de origem/CORS. O projeto deve ser executado por um servidor HTTP local.
+
+### Windows (recomendado)
+
+1. Instale o Node.js (se ainda nao tiver): https://nodejs.org/
+2. Na raiz do projeto, execute `npm install` (apenas na primeira vez)
+3. Dê duplo clique em `iniciar.bat`
+4. Abra no navegador: http://127.0.0.1:8080
+
+### Via terminal
+
+No PowerShell, prefira:
+
+```powershell
+npm.cmd run start
+```
+
+Se usar `npm run start` e aparecer bloqueio de politica de execucao, o `npm.cmd` resolve esse problema no Windows.
+
 # Documentação
 
 <ol>
