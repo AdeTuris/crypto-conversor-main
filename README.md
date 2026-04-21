@@ -67,6 +67,22 @@ Nosso foco será melhorar a experiencia do usuário e trazer um pouco de luz a e
 * Acesse o projeto pelo computador ou pelo celular
 * Browser compatível: Chrome, Firefox e Edge
 
+## Deploy (Vercel)
+
+- Producao: https://crypto-conversor-main.vercel.app
+- Repositorio conectado: https://github.com/AdeTuris/crypto-conversor-main
+- Toda atualizacao na branch `main` gera deploy de producao automaticamente.
+
+## Preview Deploy (branches e PRs)
+
+- Commits em branches diferentes de `main` geram uma URL de preview no Vercel.
+- Pull Requests exibem o link de preview para validacao antes do merge.
+- Fluxo recomendado:
+  1. Criar branch de feature.
+  2. Fazer push da branch.
+  3. Abrir PR e validar a URL de preview.
+  4. Fazer merge para `main` para publicar em producao.
+
 ## Executar localmente (sem depender do VS Code)
 
 Ao abrir os arquivos HTML com duplo clique (`file://`), algumas funcionalidades podem falhar por restricoes de origem/CORS. O projeto deve ser executado por um servidor HTTP local.
